@@ -1,6 +1,5 @@
 import time
 import datetime
-import os
 from colorama import *
 #region Private param
 _failName = "" #Имя файла 
